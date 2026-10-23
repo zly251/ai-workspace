@@ -30,7 +30,7 @@
 
 > `job-agent` 是独立仓库（[zly251/job-agent](https://github.com/zly251/job-agent)），在这里以 git submodule 形式挂载，方便总仓库统一入口。
 
-![求职助手操作台](https://raw.githubusercontent.com/zly251/job-agent/main/docs/screenshots/01-dashboard.png)
+![AI 沟通中心](https://raw.githubusercontent.com/zly251/job-agent/main/docs/screenshots/01-chat.png)
 
 ---
 
