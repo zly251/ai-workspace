@@ -26,9 +26,11 @@
 
 | 项目 | 说明 |
 |---|---|
-| [`job-agent`](./job-agent) | 求职助手 · JobAgent：本地运行的自动求职代理，岗位抓取 / 智能匹配 / 自动投递 / 反馈闭环 / 到手价值核算（子模块） |
+| [**job-agent**](https://github.com/zly251/job-agent) | 求职助手 · JobAgent：本地运行的自动求职代理，岗位抓取 / 智能匹配 / 自动投递 / 反馈闭环 / 到手价值核算 |
 
 > `job-agent` 是独立仓库（[zly251/job-agent](https://github.com/zly251/job-agent)），在这里以 git submodule 形式挂载，方便总仓库统一入口。
+
+![求职助手操作台](https://raw.githubusercontent.com/zly251/job-agent/main/docs/screenshots/01-dashboard.png)
 
 ---
 
